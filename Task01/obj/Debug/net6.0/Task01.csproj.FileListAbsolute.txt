@@ -1,0 +1,15 @@
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/bin/Debug/net6.0/Task01
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/bin/Debug/net6.0/Task01.deps.json
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/bin/Debug/net6.0/Task01.runtimeconfig.json
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/bin/Debug/net6.0/Task01.dll
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/bin/Debug/net6.0/Task01.pdb
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.csproj.AssemblyReference.cache
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.AssemblyInfoInputs.cache
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.AssemblyInfo.cs
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.csproj.CoreCompileInputs.cache
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.dll
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/refint/Task01.dll
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.pdb
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/Task01.genruntimeconfig.cache
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task01/obj/Debug/net6.0/ref/Task01.dll
