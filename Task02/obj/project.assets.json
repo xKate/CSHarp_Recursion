@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/ruslanfilipovich/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/Task02.csproj",
+      "projectName": "Task02",
+      "projectPath": "/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/Task02.csproj",
+      "packagesPath": "/Users/ruslanfilipovich/.nuget/packages/",
+      "outputPath": "/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ruslanfilipovich/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/obj/Debug/net6.0/Task02.csproj.AssemblyReference.cache
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/obj/Debug/net6.0/Task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/obj/Debug/net6.0/Task02.AssemblyInfoInputs.cache
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/obj/Debug/net6.0/Task02.AssemblyInfo.cs
+/Users/ruslanfilipovich/Desktop/Greek_Brains/Practice/HW__for_semenar/HW_04_Recursion/Tasks/Task02/obj/Debug/net6.0/Task02.csproj.CoreCompileInputs.cache
